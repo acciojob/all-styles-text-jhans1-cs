@@ -1,17 +1,17 @@
-.main {
-  width: 200px;
-  background-color: purple;
-}
-
-.heading {
-  border-left: solid green;
+.main{
+	width:200px;
+	background:rgb(128, 0, 128);
+	border-left:5px solid green;
+	font-size:20px;
 	padding:10px;
-	border-left-width: 5px;
+	color :white;
 }
-
-.heading h1 {
-  font-size: 20px;
-  color: white;
+.heading{
+	width:200px;
+	
+	
+	
+	text-decoration:underline;
 }
 
 /* Your CSS Code here. */
